@@ -6,4 +6,4 @@ This shit sends a timestamp to chat and it looks weird lol
 - Ivano 4 code
 
 ## Proof of Concept
-Youtube: link soon
+Youtube: https://youtu.be/67Ief2TFdMQ
